@@ -1,6 +1,6 @@
-# Inventor Kit Experiments
+# Replicating existing interactions
 
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
+*Markdown reference: https://makecode.microbit.org/projects/plant-watering*
 
 ## Instructions ##
 
