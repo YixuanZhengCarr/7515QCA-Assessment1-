@@ -4,18 +4,18 @@
 
 ## Instructions ##
 
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
+*It's a design that uses micro bit humidity sensors for automatic watering. When the humidity dropped below a predetermined value, servo turned the machine's shaft to water it.
 
-### Experiment name ###
+### Plant watering ###
 
-(Replace this with the experiment name)
+
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](1.jpg)
 
-(Insert a caption here)
+![Image](s.jpg)
+
+
 
 #### Reflection ####
 
