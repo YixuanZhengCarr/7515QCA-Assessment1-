@@ -54,55 +54,83 @@ Although the appearance is a bit uncomfortable and beautiful, but at least it ca
 
 This stage consists of two parts: Coding and device fabrication.
 
+Code writing
 
-### Experiment name ###
+Numerical reference based on the original code. But in the next stage of making the device, the details of the actual situation will be adjusted. (for example, the value of the rotation angle of the mechanical shaft, etc. .)
 
-(Replace this with the experiment name)
+![Image](3.jpg)
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+The rotation angle value of the mechanical shaft is adjusted to make the water out of the straw more quickly.
 
-![Image](missingimage.png)
+![Image](4.png)
 
-(Insert a caption here)
+(The code for the watering part)
 
-#### Reflection ####
+Dry Humidity Code
 
-In this experiment, something new to me was or something I learned was (insert something here).
+![Image](849a0b5ddedcdc2735e40b5f7217627.png)
 
-This experiment could be the basis of a real world application such as (insert something here).
+Check for dry humidity (Dry: 331  most: 1001)
 
-### Experiment name ###
+![Image](5.png)
 
-(Replace this with the experiment name)
+Optimizes the consumption of dry moisture after the final code.
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+Final Code for plant watering project. (Code writing & Dry Humidity Code)
 
-![Image](missingimage.png)
+![Image](6.png)
 
-(Insert a caption here)
 
-#### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
 
-This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
 
-(Replace this with the experiment name)
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+## Production process ##
 
-![Image](missingimage.png)
 
-(Insert a caption here)
+### Experiment made 1 ###
 
-#### Reflection ####
+A total of three times to make the device. The first time is mainly to understand the structure of the device, also made a draft model.
 
-In this experiment, something new to me was or something I learned was (insert something here).
+![Image](c6f30fa6ecca7a07a579f347d75bfd7.png)
 
-This experiment could be the basis of a real world application such as (insert something here).
+### Experiment made 2 ###
+
+The second production failed and there were technical problems.
+
+![Image](1ea34f4b970fde40841d35c3eb0f115.png)
+
+
+The main problem is to focus on aesthetics, ignoring the machine axis from the bowl change distance. The distance between them is too great. The Rear Pipette doesn't have enough distance to carry the water.
+
+
+![Image](a6657550ec5f446b876426ab0e83f4a.png)
+
+(Yellow and blue lines)
+
+### Experiment made 3 ###
+
+Third Production. From the experience of the first two. Pay More attention to the structural details of the device. Make sure all the parts are working properly. And improve the aesthetics of the device as much as possible.
+
+
+![Image](db18a7ef6a9f85d8a89b2cf22949c60.png)
+
+![Image](77.jpg)
+
+In the process I found that different sizes of straws have an effect on the amount of water produced, so I made two straws of different sizes and colors, which can be changed at will, adding a bit of fun. Just like people change their clothes.
+
+![Image](a5cb834abaa3a56c61feef61957991a.png)
+
+My experience with the plant watering project：
+There are two main aspects of the production that I find challenging. One is to install wiring (line positive and negative) , the other is to adjust the code value.
+Maybe it was the first time I touched the circuit board and the code, so I spent a lot of time in the production process to modify. But it should be relatively easy for someone with the foundation and experience. 
+
+
+
+![Image](8.jpg)
+
+# Thank you for reading #
+
+
 
