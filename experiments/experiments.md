@@ -23,22 +23,37 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Part 1 Preparation  ###
 
-(Replace this with the experiment name)
+Watch the video to get an idea of how the restoration project will work.
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+Link: https://makecode.microbit.org/projects/plant-watering
 
-![Image](微信图片_202003261746069.png)
+Original Project Code Diagram
+Link: https://makecode.microbit.org/projects/plant-watering/code
 
-(Insert a caption here)
+After watching the video, I began to think about how the original design was designed and made.
 
-#### Reflection ####
+PS: I think the design and logic is the focus of my restoration project.
 
-In this experiment, something new to me was or something I learned was (insert something here).
+![Image](2.jpg)
 
-This experiment could be the basis of a real world application such as (insert something here).
+（Try to recover the design logic）
+
+#### Part 2 Device making ####
+Material preparation
+
+![Image](f80c051fcb9e7bb777f1733b072ccee.png)
+
+(BUY FROM JAYCAR! Thanks to Angle for sharing this information, you can go to Jaycar and get the parts you need.)
+
+Due to the lack of some materials such as flexible Straw, so I had to find a solution.
+Although the appearance is a bit uncomfortable and beautiful, but at least it can ensure that it can work properly. Once the material is ready, the next phase begins
+
+#### Production Phase ####
+
+This stage consists of two parts: Coding and device fabrication.
+
 
 ### Experiment name ###
 
